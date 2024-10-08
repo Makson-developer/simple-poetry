@@ -38,10 +38,10 @@ header > p {
 }
 
 section {
-    font-size: 2vw;
+    font-size: 3vw;
     font-family: var(--fonte3);
-    padding-top: 30vh;
-    padding-bottom: 30vh;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
     line-height: 2em;
     padding-left: 35px;
 }
