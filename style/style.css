@@ -38,7 +38,7 @@ header > p {
 }
 
 section {
-    font-size: 3vw;
+    font-size: 3vh;
     font-family: var(--fonte3);
     padding-top: 20vh;
     padding-bottom: 20vh;
